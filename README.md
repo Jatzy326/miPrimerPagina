@@ -5,7 +5,7 @@
 Primer sitio web desarrollado con HTML para el bootcamp de tecnolochicas PRO, en el cual se lleva a cabo el uso de etiquetas básicas y la carga de recursos externos (imagenes) y links para navegación dentro y fuera del sitio.
 
 ### Link del proyecto
-![Proyecto desplegado](https://lustrous-torrone-f3baba.netlify.app/)
+![Proyecto desplegado](https://effortless-klepon-7b6d0f.netlify.app/)
 
 ### Capturas del proyecto
 ![Captura Links](img/captura1.png)
