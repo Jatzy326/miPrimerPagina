@@ -10,7 +10,8 @@ Primer sitio web desarrollado con HTML para el bootcamp de tecnolochicas PRO, en
 ### Capturas del proyecto
 ![Captura Links](img/captura1.png)
 ![Captura Links](img/captura2.png)
-
+![Captura Links](img/captura3.png)
+![Captura Links](img/captura4.png)
 ## Tecnologías utilizadas
     HTML
 
